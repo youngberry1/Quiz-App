@@ -48,3 +48,9 @@ button:disabled {
    background: gray;
    cursor: not-allowed;
 }
+
+#timer {
+   margin-top: 10px;
+   font-weight: bold;
+   color: #333;
+}
